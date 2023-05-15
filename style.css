@@ -39,7 +39,7 @@ transition: .5s;
 
 
 .hero{
-    background-image: url(./Strict.jpg);
+    background-image: url(./img/Strict.jpg);
     display: flex;
     align-items:center;
     justify-content:center;
@@ -176,7 +176,7 @@ transition: .5s;
 .contact{
     
     background-color: #2d39508b;
-    background-image: url(./contact.png);
+    background-image: url(./img/contact.png);
 }
 
 .input_box .i_box_i{
