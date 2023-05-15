@@ -50,6 +50,9 @@ padding: 5px 10px;
     height: 90vh;
     font-family: 'Cabin', sans-serif;
     font-family: 'Lato', sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
 .hero_t1{
     color: white;
@@ -184,7 +187,7 @@ padding: 5px 10px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
-    
+
 }
 
 .input_box .i_box_i{
