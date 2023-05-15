@@ -181,6 +181,8 @@ padding: 5px 10px;
     
     background-color: #2d39508b;
     background-image: url(./img/contact.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .input_box .i_box_i{
