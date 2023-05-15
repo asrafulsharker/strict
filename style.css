@@ -29,12 +29,14 @@ header{
     font-family: 'Cabin', sans-serif;
 font-family: 'Lato', sans-serif;
 transition: .5s;
+padding: 5px 10px;
+
 }
 
 .q_link a:hover{
     background-color: blue;
     color: white !important;
-    padding: 5px;
+    padding: 5px  10px;
 }
 
 
